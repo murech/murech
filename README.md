@@ -1,3 +1,5 @@
-👋, I'm Matthias. I'm passionate to learn, share and discuss about cloud native topics.
+## Welcome to my Github👋
 
-If I was able to help you or you like my content, please consider supporting me by leaving a ⭐ on my profile or one of the repositories. 
+My passion is to make cloud native tools and platforms more accessible to community members. I hope the content of my Github is useful, inspires or influences you.
+
+If I was able to help you or you like my content, please consider leaving a ⭐ on my profile or one of the repositories. This will help to reach more people and give something back to the amazing open source and Github community.
